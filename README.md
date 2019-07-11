@@ -134,14 +134,6 @@ Tests:
  * Tests compile into a single binary `test/bin/runner` that is run on a command line to run the tests.
  * `test/lib` folder with a git submodule in `test/lib/googletest`, and possibly other libraries.
 
-#### Contributing
-
-**Pull Requests are WELCOME!** Please submit any fixes or improvements, and I promise to review it as soon as I can at the project URL:
-
- * [Project Github Home](https://github.com/kigster/cmake-project-template)
- * [Submit Issues](https://github.com/kigster/cmake-project-template/issues)
- * [Pull Requests](https://github.com/kigster/cmake-project-template/pulls)
-
 ### License
 
 &copy; 2017-2018 Konstantin Gredeskoul.
