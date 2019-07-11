@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/kigster/cmake-project-template.svg?branch=master)](https://travis-ci.org/kigster/cmake-project-template)
+[![Build Status](https://travis-ci.com/aure369/cmake-project-template.svg?branch=master)](https://travis-ci.com/aure369/cmake-project-template)
 
 # CMake C++ Project Template
 
